@@ -1,0 +1,25 @@
+{
+  "name": "200827_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easyacres/200827hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easyacres/200827hw/issues"
+  },
+  "homepage": "https://github.com/easyacres/200827hw#readme"
+}
